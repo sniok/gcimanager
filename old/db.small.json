@@ -1,0 +1,1017 @@
+{"tasks":[
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-28T18:27-0800-brl-cad1.txt",
+          "path": "uncategorized/2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD/file-1-2012-11-28T18:27-0800-brl-cad1.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-03T07:02-0800-interview.txt",
+          "path": "uncategorized/2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD/file-2-2012-12-03T07:02-0800-interview.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-04T02:31-0800-interview.txt",
+          "path": "uncategorized/2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD/file-3-2012-12-04T02:31-0800-interview.txt",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD",
+      "path": "uncategorized/2012-7945213-Write_BRL-CAD_News_article_on_debrpm_builds_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 0,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-02T07:20-0800-cmakelog.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-1-2012-12-02T07:20-0800-cmakelog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-02T07:23-0800-cmakelog.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-2-2012-12-02T07:23-0800-cmakelog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-03T06:33-0800-log.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-3-2012-12-03T06:33-0800-log.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-29T23:59-0800-Alexandur-cmake-log.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-4-2012-12-29T23:59-0800-Alexandur-cmake-log.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-29T23:59-0800-Alexandur -log.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-5-2012-12-29T23:59-0800-Alexandur -log.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2013-01-01T13:23-0800-Alexandur -log.txt",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-6-2013-01-01T13:23-0800-Alexandur -log.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2013-01-06T18:36-0800-devcpp.zip",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-7-2013-01-06T18:36-0800-devcpp.zip",
+          "type": "file"
+        },
+        {
+          "name": "file-8-2013-01-07T08:42-0800-build-2-logs.zip",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/file-8-2013-01-07T08:42-0800-build-2-logs.zip",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD",
+      "path": "uncategorized/2012-7945220-Compile_BRL-CAD_using_Dev-C_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 1,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-29T15:40-0800-mpf_class2.tar.7z",
+          "path": "uncategorized/2012-7946218-Investigate_GMP_integration_-_BRL-CAD/file-1-2012-11-29T15:40-0800-mpf_class2.tar.7z",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7946218-Investigate_GMP_integration_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7946218-Investigate_GMP_integration_-_BRL-CAD",
+      "path": "uncategorized/2012-7946218-Investigate_GMP_integration_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 2,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-29T06:07-0800-CompileBRL-CAD.zip",
+          "path": "uncategorized/2012-7948214-Compile_BRL-CAD_on_Windows_using_Visual_Studio_Express_-_BRL-CAD/file-1-2012-11-29T06:07-0800-CompileBRL-CAD.zip",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-29T10:42-0800-CompileBRL-CAD.zip",
+          "path": "uncategorized/2012-7948214-Compile_BRL-CAD_on_Windows_using_Visual_Studio_Express_-_BRL-CAD/file-2-2012-11-29T10:42-0800-CompileBRL-CAD.zip",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7948214-Compile_BRL-CAD_on_Windows_using_Visual_Studio_Express_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7948214-Compile_BRL-CAD_on_Windows_using_Visual_Studio_Express_-_BRL-CAD",
+      "path": "uncategorized/2012-7948214-Compile_BRL-CAD_on_Windows_using_Visual_Studio_Express_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 3,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-04T17:22-0800-BRL-CAD crash.mov",
+          "path": "uncategorized/2012-7948218-Crash_MGED_reliably_-_BRL-CAD/file-1-2012-12-04T17:22-0800-BRL-CAD crash.mov",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-04T18:29-0800-mged-710-bomb.log",
+          "path": "uncategorized/2012-7948218-Crash_MGED_reliably_-_BRL-CAD/file-2-2012-12-04T18:29-0800-mged-710-bomb.log",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7948218-Crash_MGED_reliably_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7948218-Crash_MGED_reliably_-_BRL-CAD",
+      "path": "uncategorized/2012-7948218-Crash_MGED_reliably_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 4,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-27T21:03-0800-Screenshot.png",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-1-2012-11-27T21:03-0800-Screenshot.png",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-27T21:03-0800-BShape.g",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-2-2012-11-27T21:03-0800-BShape.g",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-11-28T16:18-0800-BShape.g",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-3-2012-11-28T16:18-0800-BShape.g",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-11-28T16:18-0800-Screenshot.png",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-4-2012-11-28T16:18-0800-Screenshot.png",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-02T22:11-0800-B_picture.png",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-5-2012-12-02T22:11-0800-B_picture.png",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-02T22:11-0800-B.g",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-6-2012-12-02T22:11-0800-B.g",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2012-12-03T20:19-0800-B_screencap.png",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-7-2012-12-03T20:19-0800-B_screencap.png",
+          "type": "file"
+        },
+        {
+          "name": "file-8-2012-12-03T20:32-0800-B.g",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/file-8-2012-12-03T20:32-0800-B.g",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD",
+      "path": "uncategorized/2012-7949231-Model_a_B_using_BRL-CAD_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 5,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-27T21:06-0800-articles.patch",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/file-1-2012-11-27T21:06-0800-articles.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-27T21:06-0800-system.patch",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/file-2-2012-11-27T21:06-0800-system.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-11-28T07:33-0800-man1.patch",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/file-3-2012-11-28T07:33-0800-man1.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-11-28T07:34-0800-man3.patch",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/file-4-2012-11-28T07:34-0800-man3.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-11-28T07:53-0800-man5.patch",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/file-5-2012-11-28T07:53-0800-man5.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD",
+      "path": "uncategorized/2012-7950213-Fix_documentation_XML_errors_in_docdocbookarticles_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 6,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "link-1-2012-12-01T19:31-0800",
+          "path": "uncategorized/2012-7952233-Set_up_Jenkins_continuous_integration_for_BRL-CAD_-_BRL-CAD/link-1-2012-12-01T19:31-0800",
+          "type": "file"
+        },
+        {
+          "name": "link-2-2012-12-01T19:32-0800",
+          "path": "uncategorized/2012-7952233-Set_up_Jenkins_continuous_integration_for_BRL-CAD_-_BRL-CAD/link-2-2012-12-01T19:32-0800",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7952233-Set_up_Jenkins_continuous_integration_for_BRL-CAD_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7952233-Set_up_Jenkins_continuous_integration_for_BRL-CAD_-_BRL-CAD",
+      "path": "uncategorized/2012-7952233-Set_up_Jenkins_continuous_integration_for_BRL-CAD_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 7,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-26T20:17-0800-LShape.g",
+          "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD/file-1-2012-11-26T20:17-0800-LShape.g",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-26T20:24-0800-Screenshot.png",
+          "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD/file-2-2012-11-26T20:24-0800-Screenshot.png",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-11-26T20:26-0800-commands.txt",
+          "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD/file-3-2012-11-26T20:26-0800-commands.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-11-26T21:05-0800-ScreenShot_Stars.png",
+          "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD/file-4-2012-11-26T21:05-0800-ScreenShot_Stars.png",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD",
+      "path": "uncategorized/2012-7953227-Model_an_L_using_BRL-CAD_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 8,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-05T10:11-0800-TASK.bmp",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-1-2012-12-05T10:11-0800-TASK.bmp",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-07T10:48-0800-Task2.bmp",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-2-2012-12-07T10:48-0800-Task2.bmp",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-07T11:00-0800-mgen htkeys.txt",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-3-2012-12-07T11:00-0800-mgen htkeys.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-25T06:54-0800-mged_interface_document.psd",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-4-2012-12-25T06:54-0800-mged_interface_document.psd",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-26T06:37-0800-mged_interface_document(1).psd",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-5-2012-12-26T06:37-0800-mged_interface_document(1).psd",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-28T12:23-0800-mged_interface_document2.xcf",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-6-2012-12-28T12:23-0800-mged_interface_document2.xcf",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2012-12-28T12:26-0800-mged_interface_document2.png",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-7-2012-12-28T12:26-0800-mged_interface_document2.png",
+          "type": "file"
+        },
+        {
+          "name": "file-8-2012-12-31T07:15-0800-mged_interface_document(3).psd",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-8-2012-12-31T07:15-0800-mged_interface_document(3).psd",
+          "type": "file"
+        },
+        {
+          "name": "file-9-2012-12-31T07:21-0800-mged_interface_document(3).jpg",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/file-9-2012-12-31T07:21-0800-mged_interface_document(3).jpg",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD",
+      "path": "uncategorized/2012-7953233-Layout_MGED_Interface_Reference_Document_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 9,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2013-01-08T13:56-0800-log.txt",
+          "path": "uncategorized/2012-7954218-Research_status_of_compiling_BRL-CAD_on_MINGW_-_BRL-CAD/file-1-2013-01-08T13:56-0800-log.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2013-01-09T10:42-0800-log.txt",
+          "path": "uncategorized/2012-7954218-Research_status_of_compiling_BRL-CAD_on_MINGW_-_BRL-CAD/file-2-2013-01-09T10:42-0800-log.txt",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7954218-Research_status_of_compiling_BRL-CAD_on_MINGW_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7954218-Research_status_of_compiling_BRL-CAD_on_MINGW_-_BRL-CAD",
+      "path": "uncategorized/2012-7954218-Research_status_of_compiling_BRL-CAD_on_MINGW_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 10,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-26T17:55-0800-t1.patch",
+          "path": "uncategorized/2012-7957220-Separate_LIBNURBS_files_into_one_class_per_file_-_BRL-CAD/file-1-2012-11-26T17:55-0800-t1.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-26T21:36-0800-t1.patch",
+          "path": "uncategorized/2012-7957220-Separate_LIBNURBS_files_into_one_class_per_file_-_BRL-CAD/file-2-2012-11-26T21:36-0800-t1.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7957220-Separate_LIBNURBS_files_into_one_class_per_file_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7957220-Separate_LIBNURBS_files_into_one_class_per_file_-_BRL-CAD",
+      "path": "uncategorized/2012-7957220-Separate_LIBNURBS_files_into_one_class_per_file_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 11,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-11-28T04:04-0800-MGED.doc",
+          "path": "uncategorized/2012-7957224-Write_MGED_Interface_reference_document_-_BRL-CAD/file-1-2012-11-28T04:04-0800-MGED.doc",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-11-28T10:24-0800-MGED.doc",
+          "path": "uncategorized/2012-7957224-Write_MGED_Interface_reference_document_-_BRL-CAD/file-2-2012-11-28T10:24-0800-MGED.doc",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7957224-Write_MGED_Interface_reference_document_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7957224-Write_MGED_Interface_reference_document_-_BRL-CAD",
+      "path": "uncategorized/2012-7957224-Write_MGED_Interface_reference_document_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 12,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "link-1-2012-12-04T08:34-0800",
+          "path": "uncategorized/2012-7958216-Upgrade_Drupal_website_-_BRL-CAD/link-1-2012-12-04T08:34-0800",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7958216-Upgrade_Drupal_website_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7958216-Upgrade_Drupal_website_-_BRL-CAD",
+      "path": "uncategorized/2012-7958216-Upgrade_Drupal_website_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 13,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-09T10:15-0800-pictx.patch",
+          "path": "uncategorized/2012-7958220-Enable_our_pictx_tool_for_compilation_-_BRL-CAD/file-1-2012-12-09T10:15-0800-pictx.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7958220-Enable_our_pictx_tool_for_compilation_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7958220-Enable_our_pictx_tool_for_compilation_-_BRL-CAD",
+      "path": "uncategorized/2012-7958220-Enable_our_pictx_tool_for_compilation_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 14,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-14T13:07-0800-BRL-CAD to Blender.docx",
+          "path": "uncategorized/2012-7958232-Create_BRL-CAD-to-Blender_tutorial_-_BRL-CAD/file-1-2012-12-14T13:07-0800-BRL-CAD to Blender.docx",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-15T04:30-0800-BRL-CAD to Blender.docx",
+          "path": "uncategorized/2012-7958232-Create_BRL-CAD-to-Blender_tutorial_-_BRL-CAD/file-2-2012-12-15T04:30-0800-BRL-CAD to Blender.docx",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7958232-Create_BRL-CAD-to-Blender_tutorial_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7958232-Create_BRL-CAD-to-Blender_tutorial_-_BRL-CAD",
+      "path": "uncategorized/2012-7958232-Create_BRL-CAD-to-Blender_tutorial_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 15,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-15T18:07-0800-macro.patch",
+          "path": "uncategorized/2012-7958234-Convert_NEAR_ZERO_macro_calls_to_NEAR_EQUAL_and_EQUAL_-_BRL-CAD/file-1-2012-12-15T18:07-0800-macro.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-16T12:49-0800-macro2.patch",
+          "path": "uncategorized/2012-7958234-Convert_NEAR_ZERO_macro_calls_to_NEAR_EQUAL_and_EQUAL_-_BRL-CAD/file-2-2012-12-16T12:49-0800-macro2.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7958234-Convert_NEAR_ZERO_macro_calls_to_NEAR_EQUAL_and_EQUAL_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7958234-Convert_NEAR_ZERO_macro_calls_to_NEAR_EQUAL_and_EQUAL_-_BRL-CAD",
+      "path": "uncategorized/2012-7958234-Convert_NEAR_ZERO_macro_calls_to_NEAR_EQUAL_and_EQUAL_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 16,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-12T14:25-0800-mockup.zip",
+          "path": "uncategorized/2012-7958235-Mock_up_new_BRL-CAD_website_interface_design_-_BRL-CAD/file-1-2012-12-12T14:25-0800-mockup.zip",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7958235-Mock_up_new_BRL-CAD_website_interface_design_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7958235-Mock_up_new_BRL-CAD_website_interface_design_-_BRL-CAD",
+      "path": "uncategorized/2012-7958235-Mock_up_new_BRL-CAD_website_interface_design_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 17,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-02T21:23-0800-arbcent.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-1-2012-12-02T21:23-0800-arbcent.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-03T03:23-0800-centroidv2.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-2-2012-12-03T03:23-0800-centroidv2.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-03T04:55-0800-centroid.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-3-2012-12-03T04:55-0800-centroid.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-03T05:18-0800-centroidone",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-4-2012-12-03T05:18-0800-centroidone",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-03T06:55-0800-centroidone.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-5-2012-12-03T06:55-0800-centroidone.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-03T08:47-0800-finalcentroid.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-6-2012-12-03T08:47-0800-finalcentroid.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2012-12-03T12:23-0800-finallycentroid.patch",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/file-7-2012-12-03T12:23-0800-finallycentroid.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD",
+      "path": "uncategorized/2012-7959221-Implement_a_primitive_centroid_function__for_polyhedron_with_4_to_8_sides_ARB8_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 18,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-07T14:50-0800-GCI2012-10mistakes10files-patch.diff",
+          "path": "uncategorized/2012-7959223-Find_and_fix_at_least_10_spelling_mistakes_in_at_least_10_different_files_-_BRL-CAD/file-1-2012-12-07T14:50-0800-GCI2012-10mistakes10files-patch.diff",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-08T09:57-0800-GCI2012-10mistakes10files-patch.diff",
+          "path": "uncategorized/2012-7959223-Find_and_fix_at_least_10_spelling_mistakes_in_at_least_10_different_files_-_BRL-CAD/file-2-2012-12-08T09:57-0800-GCI2012-10mistakes10files-patch.diff",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7959223-Find_and_fix_at_least_10_spelling_mistakes_in_at_least_10_different_files_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7959223-Find_and_fix_at_least_10_spelling_mistakes_in_at_least_10_different_files_-_BRL-CAD",
+      "path": "uncategorized/2012-7959223-Find_and_fix_at_least_10_spelling_mistakes_in_at_least_10_different_files_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 19,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-02T11:37-0800-man5final.patch",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/file-1-2012-12-02T11:37-0800-man5final.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-02T17:31-0800-man5full.patch",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/file-2-2012-12-02T17:31-0800-man5full.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-02T17:31-0800-man1full.patch",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/file-3-2012-12-02T17:31-0800-man1full.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-03T06:42-0800-system_warnings.patch",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/file-4-2012-12-03T06:42-0800-system_warnings.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-03T08:57-0800-system_contrib_fix.patch",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/file-5-2012-12-03T08:57-0800-system_contrib_fix.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD",
+      "path": "uncategorized/2012-7959236-Fix_and_Validate_Docbook_XML_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 20,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-11T04:15-0800-ellipsoid5",
+          "path": "uncategorized/2012-7959254-Create_ellipsoid_model_and_diagram__-_BRL-CAD/file-1-2012-12-11T04:15-0800-ellipsoid5",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-11T04:16-0800-ellips2.png",
+          "path": "uncategorized/2012-7959254-Create_ellipsoid_model_and_diagram__-_BRL-CAD/file-2-2012-12-11T04:16-0800-ellips2.png",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7959254-Create_ellipsoid_model_and_diagram__-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7959254-Create_ellipsoid_model_and_diagram__-_BRL-CAD",
+      "path": "uncategorized/2012-7959254-Create_ellipsoid_model_and_diagram__-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 21,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-09T10:32-0800-parallel.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-1-2012-12-09T10:32-0800-parallel.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-10-2012-12-12T10:45-0800-per2.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-10-2012-12-12T10:45-0800-per2.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-11-2012-12-12T10:49-0800-per3.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-11-2012-12-12T10:49-0800-per3.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-12-2012-12-12T10:49-0800-per2.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-12-2012-12-12T10:49-0800-per2.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-13-2012-12-12T10:51-0800-per3.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-13-2012-12-12T10:51-0800-per3.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-14-2012-12-12T10:51-0800-per2.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-14-2012-12-12T10:51-0800-per2.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-10T05:07-0800-aff.tar.gz",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-2-2012-12-10T05:07-0800-aff.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-10T08:16-0800-new.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-3-2012-12-10T08:16-0800-new.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-10T08:31-0800-aaf_new.tar.gz",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-4-2012-12-10T08:31-0800-aaf_new.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-10T08:43-0800-aff_latest.tar.gz",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-5-2012-12-10T08:43-0800-aff_latest.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-10T09:06-0800-aaf_latest.tar.gz",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-6-2012-12-10T09:06-0800-aaf_latest.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2012-12-11T03:35-0800-newp.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-7-2012-12-11T03:35-0800-newp.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-8-2012-12-11T08:28-0800-fixed.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-8-2012-12-11T08:28-0800-fixed.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-9-2012-12-12T10:45-0800-per3.patch",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/file-9-2012-12-12T10:45-0800-per3.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD",
+      "path": "uncategorized/2012-7960222-Investigate_performance_of_setting_thread_affinity_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 22,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-03T12:26-0800-task.rar",
+          "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD/file-1-2012-12-03T12:26-0800-task.rar",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-04T09:04-0800-PSD.tar.gz",
+          "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD/file-2-2012-12-04T09:04-0800-PSD.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-07T05:44-0800-task.rar",
+          "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD/file-3-2012-12-07T05:44-0800-task.rar",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-07T05:45-0800-images.tar.gz",
+          "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD/file-4-2012-12-07T05:45-0800-images.tar.gz",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD",
+      "path": "uncategorized/2012-7960223-Create_prototype_CAD_GUI_layout_diagram_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 23,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-04T01:02-0800-rt_rhc_volume.patch",
+          "path": "uncategorized/2012-7960224-Implement_a_primitive_volume_function__for_right_hyperbolic_cylinders_RHC_-_BRL-CAD/file-1-2012-12-04T01:02-0800-rt_rhc_volume.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7960224-Implement_a_primitive_volume_function__for_right_hyperbolic_cylinders_RHC_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7960224-Implement_a_primitive_volume_function__for_right_hyperbolic_cylinders_RHC_-_BRL-CAD",
+      "path": "uncategorized/2012-7960224-Implement_a_primitive_volume_function__for_right_hyperbolic_cylinders_RHC_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 24,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-02T10:22-0800-man1final.patch",
+          "path": "uncategorized/2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD/file-1-2012-12-02T10:22-0800-man1final.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-02T10:23-0800-man3final.patch",
+          "path": "uncategorized/2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD/file-2-2012-12-02T10:23-0800-man3final.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-02T10:27-0800-man5final.patch",
+          "path": "uncategorized/2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD/file-3-2012-12-02T10:27-0800-man5final.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD",
+      "path": "uncategorized/2012-7960234-Convert_remaining_manual_pages_to_Docbook_XML_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 25,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-17T05:32-0800-brlcad-buildlog.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-1-2012-12-17T05:32-0800-brlcad-buildlog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-10-2012-12-22T07:00-0800-build_log_22_dec.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-10-2012-12-22T07:00-0800-build_log_22_dec.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-11-2012-12-23T22:28-0800-log_24_dec.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-11-2012-12-23T22:28-0800-log_24_dec.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-12-2012-12-23T22:29-0800-Makefile",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-12-2012-12-23T22:29-0800-Makefile",
+          "type": "file"
+        },
+        {
+          "name": "file-13-2012-12-26T07:28-0800-final summary.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-13-2012-12-26T07:28-0800-final summary.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-14-2012-12-26T07:29-0800-final summary - Strict.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-14-2012-12-26T07:29-0800-final summary - Strict.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-17T07:37-0800-brlcad-buildlog.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-2-2012-12-17T07:37-0800-brlcad-buildlog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-17T08:07-0800-brlcad-buildlog.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-3-2012-12-17T08:07-0800-brlcad-buildlog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-17T08:24-0800-brlcad-buildlog.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-4-2012-12-17T08:24-0800-brlcad-buildlog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-17T20:56-0800-brlcad-buildlog.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-5-2012-12-17T20:56-0800-brlcad-buildlog.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-18T00:05-0800-brlcad_buildlog_cmake_success.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-6-2012-12-18T00:05-0800-brlcad_buildlog_cmake_success.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-7-2012-12-18T01:46-0800-brlcad-buildlog-part2.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-7-2012-12-18T01:46-0800-brlcad-buildlog-part2.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-8-2012-12-18T06:39-0800-Configurations for building.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-8-2012-12-18T06:39-0800-Configurations for building.txt",
+          "type": "file"
+        },
+        {
+          "name": "file-9-2012-12-20T17:17-0800-build.txt",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/file-9-2012-12-20T17:17-0800-build.txt",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD",
+      "path": "uncategorized/2012-7961226-Compile_BRL-CAD_on_Windows_using_Cygwin_attempt_2_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 26,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-05T08:10-0800-system_author_fix.patch",
+          "path": "uncategorized/2012-7964207-Fix_ltauthorgt_tags_in_our_Docbook_documentation_-_BRL-CAD/file-1-2012-12-05T08:10-0800-system_author_fix.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7964207-Fix_ltauthorgt_tags_in_our_Docbook_documentation_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7964207-Fix_ltauthorgt_tags_in_our_Docbook_documentation_-_BRL-CAD",
+      "path": "uncategorized/2012-7964207-Fix_ltauthorgt_tags_in_our_Docbook_documentation_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 27,
+      "tags": []
+    },
+    {
+      "children": [
+        {
+          "name": "file-1-2012-12-03T05:19-0800-htonf.c",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-1-2012-12-03T05:19-0800-htonf.c",
+          "type": "file"
+        },
+        {
+          "name": "file-2-2012-12-03T09:20-0800-htonf.patch",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-2-2012-12-03T09:20-0800-htonf.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-3-2012-12-03T09:24-0800-htonf_2.patch",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-3-2012-12-03T09:24-0800-htonf_2.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-4-2012-12-03T14:07-0800-htonf_3.diff",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-4-2012-12-03T14:07-0800-htonf_3.diff",
+          "type": "file"
+        },
+        {
+          "name": "file-5-2012-12-04T05:18-0800-htonf4.patch",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-5-2012-12-04T05:18-0800-htonf4.patch",
+          "type": "file"
+        },
+        {
+          "name": "file-6-2012-12-05T08:29-0800-htonf_5.patch",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/file-6-2012-12-05T08:29-0800-htonf_5.patch",
+          "type": "file"
+        },
+        {
+          "name": "task.html",
+          "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD/task.html",
+          "type": "file"
+        }
+      ],
+      "name": "2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD",
+      "path": "uncategorized/2012-7966230-Reduce_duplicate_code_in_htonfc_-_BRL-CAD",
+      "type": "folder",
+      "year": "2012",
+      "id": 28,
+      "tags": []
+    }
+]}
