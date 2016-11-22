@@ -4,6 +4,7 @@ import { Router, Route, browserHistory } from 'react-router'
 import Layout from './Layout.jsx'
 import Index from './pages/Index.jsx'
 import Login from './pages/Login.jsx'
+import Task from './pages/Task.jsx'
 /*
 import TaskContainer from './TaskContainer.jsx'
 import Layout from './Layout.jsx'
@@ -21,6 +22,7 @@ class RouteContainer extends Component {
         <Route component={Layout}>
           <Route path="/" component={Index} />
           <Route path="/login" component={Login} />
+          <Route path="/task/:id" component={Task} />
         </Route>
       </Router>
     )

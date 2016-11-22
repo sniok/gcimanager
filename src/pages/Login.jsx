@@ -24,7 +24,7 @@ class Login extends Component {
             if (user) {
                 browserHistory.push('/')
             }
-        })   
+        })
     }
     submit = () => {
         let e = this.email.input.value
@@ -43,7 +43,7 @@ class Login extends Component {
             <div>
                 <Banner title="Login"/>
                 <Content>
-                    Login as BRL-CAD member<br/><br/>
+                    Please login<br/><br/>
                     { this.state.errorMsg ? <b style={{color:"red"}}>{this.state.errorMsg}<br/></b> : ""}
                     <TextField ref={c=>this.email=c} id="email" placeholder="Email" /><br/>
                     <TextField ref={c=>this.password=c} type="password" id="password" placeholder="Password"/><br/>

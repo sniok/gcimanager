@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import { 
+import {
     Table,
     TableBody,
     TableHeader,
@@ -66,6 +66,7 @@ class TaskTable extends Component {
         // if searching by tags
         if(this.state.tags[0] !== "" && this.state.tags.length > 0){
             t = t.filter( task => {
+                if(!task.tags) return false
                 let isRight = true
                 this.state.tags.forEach( tag => {
                     if(task.tags.indexOf(tag) === -1){
@@ -108,10 +109,10 @@ class TaskTable extends Component {
                 </TableBody>
             </Table>
             { this.state.tasks.length > 0 ? "":
-                <div style={{width:80,margin:"20px auto"}}>
+                <div style={{width:50,margin:"20px auto"}}>
                     <CircularProgress
-                        size={80}
-                        thickness={3}
+                        size={50}
+                        thickness={4}
                     />
                 </div>
             }

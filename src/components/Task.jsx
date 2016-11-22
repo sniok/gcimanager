@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+import { Link } from 'react-router'
+
 import File from './File.jsx'
 import Tags from './Tags.jsx'
 
@@ -8,7 +10,7 @@ import {
     FlatButton,
     Dialog,
     TableRow,
-    TableRowColumn, 
+    TableRowColumn,
 } from 'material-ui'
 import FontIcon from 'material-ui/FontIcon';
 
@@ -63,11 +65,12 @@ class Task extends Component {
             <TableRowColumn>{this.getName()}</TableRowColumn>
             <TableRowColumn><Tags tags={this.props.task.tags}/></TableRowColumn>
             <TableRowColumn style={{width: this.props.deleteAction ? 250 : 200 }}>
-                <FlatButton onClick={this.openViewModal} icon={<FontIcon className="material-icons">fullscreen</FontIcon>} label="view"/>
-                { this.state.currentUser ? <FlatButton onClick={this.openDialog} icon={<FontIcon className="material-icons">edit</FontIcon>} label="Edit"/> : "" }
+                <Link to={`/task/${this.props.task.id}`}>
+                  <FlatButton icon={<FontIcon className="material-icons">fullscreen</FontIcon>} label="view"/>
+                </Link>
                 { this.props.deleteAction ? <FlatButton onClick={() => {this.props.deleteAction(this.props.task._id)}} label="Delete"/> : ""}
             </TableRowColumn>
-            
+
             <TaskModal task={this.props.task} ref={c => this._viewModal = c}/>
           </TableRow>
       )

@@ -7,8 +7,8 @@ class Tags extends Component {
         if(this.props.tags) {
             return this.props.tags.map( tag => {
                 let color = grey200
-                if(tag === "reviewed") color = lightGreen100
-                if(tag === "new") color = blue100
+                if(tag === "done") color = lightGreen100
+                if(tag === "todo") color = blue100
                 return <Chip
                     style={{margin:4}}
                     key={tag}
