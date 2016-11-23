@@ -91,6 +91,8 @@ class TaskView extends Component {
     this.comment.input.value = ""
   }
 
+
+  /* TODO Make deletion by email not displayName !!! */
   deleteComment = (id) => {
     let comments = this.props.task.comments
     comments.splice(id,1)
