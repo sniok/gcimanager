@@ -64,7 +64,7 @@ class Task extends Component {
           <TableRow>
             <TableRowColumn>{this.getName()}</TableRowColumn>
             <TableRowColumn><Tags tags={this.props.task.tags}/></TableRowColumn>
-            <TableRowColumn style={{width: this.props.deleteAction ? 250 : 200 }}>
+            <TableRowColumn style={{width: 100 }}>
                 <Link to={`/task/${this.props.task.id}`}>
                   <FlatButton icon={<FontIcon className="material-icons">fullscreen</FontIcon>} label="view"/>
                 </Link>

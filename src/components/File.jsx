@@ -8,8 +8,10 @@ const styles = {
 
 class File extends Component {
 
-  prettyFileName(name) {
-    return name.split('-0800-')[1]
+  prettyFileName = (name) => {
+    if(name === "task.html") return "Task page"
+    if(name.split('-')[0] === "link") return "Link"
+    return name.split('-0800-')[1] || "Untitled"
   }
 
   render() {

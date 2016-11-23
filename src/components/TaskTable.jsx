@@ -96,7 +96,7 @@ class TaskTable extends Component {
                         <TableHeaderColumn>Name</TableHeaderColumn>
                         <TableHeaderColumn>Tags</TableHeaderColumn>
                         <TableHeaderColumn
-                        style={{width: 200}}
+                        style={{width: 100}}
                         >Actions</TableHeaderColumn>
                     </TableRow>
                 </TableHeader>

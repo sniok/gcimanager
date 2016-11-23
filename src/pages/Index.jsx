@@ -50,7 +50,7 @@ class Index extends Component {
             <div>
                 <Banner title="Search" />
                 <Content>
-                    <TextField id="name" ref={c=>this._name=c} floatingLabelText="Search by name" fullWidth={true}/>
+                    <TextField style={{marginTop:"-25px"}} id="name" ref={c=>this._name=c} floatingLabelText="Search by name" fullWidth={true}/>
                       <div style={{display:this.state.filter?"block":"none"}}>
                         <TextField id="year" style={styles.field} ref={c=>this._year=c} floatingLabelText="Year" />
                         <TextField id="limit" style={styles.field} defaultValue="10" ref={c=>this._limit=c} floatingLabelText="Limit" /><br/>
@@ -79,6 +79,7 @@ class Index extends Component {
                       label="more"
                     />
                 </Content>
+                <div style={{textAlign:"center",paddingBottom:"30px"}}>Task count is temporarily limited for developing reasons.</div>
             </div>
         )
     }

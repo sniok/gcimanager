@@ -6,6 +6,8 @@ import { grey600 } from 'material-ui/styles/colors'
 import {
   FlatButton,
   RaisedButton,
+  Paper,
+  TextField,
 } from 'material-ui'
 import FontIcon from 'material-ui/FontIcon';
 import ChipInput from 'material-ui-chip-input'
@@ -40,13 +42,14 @@ class TaskView extends Component {
     this.state = {
       editing: false,
       loggedIn: false,
+      displayName: null,
     }
   }
 
   componentWillMount() {
     firebase.auth().onAuthStateChanged(user => {
       if (user) {
-        this.setState({loggedIn:true})
+        this.setState({loggedIn:true, displayName: user.displayName || user.email})
       } else {
         this.setState({loggedIn:false})
       }
@@ -73,6 +76,27 @@ class TaskView extends Component {
       tags: this.tags.state.chips,
     });
     this.setState({editing:false})
+  }
+
+  sendComment = () => {
+    let text = this.comment.input.value
+    let comments = this.props.task.comments || []
+    comments.push({
+      owner: this.state.displayName,
+      text: text,
+    })
+    firebase.database().ref('tasks/' + this.props.task.id).update({
+      comments: comments,
+    })
+    this.comment.input.value = ""
+  }
+
+  deleteComment = (id) => {
+    let comments = this.props.task.comments
+    comments.splice(id,1)
+    firebase.database().ref('tasks/' + this.props.task.id).update({
+      comments: comments,
+    })
   }
 
   render () {
@@ -117,9 +141,38 @@ class TaskView extends Component {
           {this.props.task.children.map( file => <File key={file.name} file={file} /> )}
         </div>
         <h3 style={styles.h3}>Comments</h3>
-        <p>Comments bla bla bla </p>
-
+        {this.props.task.comments ? this.props.task.comments.map( (comment, i) =>
+          <Comment handleDelete={this.deleteComment} displayName={this.state.displayName} key={i} id={i} comment={comment} />)
+          :
+          <div>Be first to comment</div>
+        }
+        {this.state.loggedIn ?
+          <div>
+            <TextField fullWidth={true} ref={c=>this.comment=c} hintText="Text" style={{marginTop: "-10px"}} floatingLabelText="Add comment" /><br/>
+            <RaisedButton primary={true} label="send" onClick={this.sendComment}/>
+          </div>
+        :
+          <div style={{paddingTop: 10}}>
+            Log in to comment
+          </div>
+        }
       </div>
+    )
+  }
+}
+
+class Comment extends Component {
+  render() {
+    return (
+      <Paper style={{padding: "15px 15px"}} zDepth={1}>
+        <b>{this.props.comment.owner}</b>
+        <div>{this.props.comment.text}</div>
+        {this.props.displayName === this.props.comment.owner ?
+          <FlatButton onClick={()=>{this.props.handleDelete(this.props.id)}} style={{right: "0"}} label="Delete" />
+          :""
+        }
+
+      </Paper>
     )
   }
 }
