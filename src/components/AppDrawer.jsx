@@ -53,7 +53,10 @@ class AppDrawer extends Component {
           <Link style={styles.linkStyle} to="/"><MenuItem onClick={this.close}>Search</MenuItem></Link>
           <Link style={styles.linkStyle} to="/groups"><MenuItem onClick={this.close}>Groups</MenuItem></Link>
           { this.state.loggedIn ?
-            <MenuItem onClick={this.logOut}>Log Out</MenuItem> :
+            <div>
+              <Link style={styles.linkStyle} to="/profile"><MenuItem onClick={this.close}>Profile</MenuItem></Link>
+              <MenuItem onClick={this.logOut}>Log Out</MenuItem>
+            </div> :
             <Link style={styles.linkStyle} to="/login"><MenuItem onClick={this.close}>Login</MenuItem></Link>
           }
         </Drawer>

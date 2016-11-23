@@ -37,7 +37,7 @@ class Index extends Component {
     }
 
     more = () => {
-      this._limit.input.value = parseInt(this._limit.input.value) + 5
+      this._limit.input.value = parseInt(this._limit.input.value, 10) + 5
       this.search()
     }
 
