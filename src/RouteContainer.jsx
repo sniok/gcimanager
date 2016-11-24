@@ -6,6 +6,7 @@ import Index from './pages/Index.jsx'
 import Login from './pages/Login.jsx'
 import Task from './pages/Task.jsx'
 import Profile from './pages/Profile.jsx'
+import Groups from './pages/Groups.jsx'
 /*
 import TaskContainer from './TaskContainer.jsx'
 import Layout from './Layout.jsx'
@@ -25,6 +26,7 @@ class RouteContainer extends Component {
           <Route path="/login" component={Login} />
           <Route path="/profile" component={Profile} />
           <Route path="/task/:id" component={Task} />
+          <Route path="/groups" component={Groups} />
         </Route>
       </Router>
     )
