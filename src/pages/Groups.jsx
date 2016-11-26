@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 
 import Banner from '../components/Banner.jsx'
 import Content from '../components/Content.jsx'
+import GroupsTable from '../components/GroupsTable.jsx'
 
 class Groups extends Component {
   render () {
@@ -10,8 +11,7 @@ class Groups extends Component {
       <div>
       <Banner title="Groups"/>
       <Content>
-        <h1>Group list</h1>
-        here
+        <GroupsTable />
       </Content>
       </div>
     )

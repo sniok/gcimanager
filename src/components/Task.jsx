@@ -2,13 +2,11 @@ import React, { Component } from 'react'
 
 import { Link } from 'react-router'
 
-import File from './File.jsx'
 import Tags from './Tags.jsx'
 
 import {
     Chip,
     FlatButton,
-    Dialog,
     TableRow,
     TableRowColumn,
 } from 'material-ui'
@@ -70,8 +68,6 @@ class Task extends Component {
                 </Link>
                 { this.props.deleteAction ? <FlatButton onClick={() => {this.props.deleteAction(this.props.task._id)}} label="Delete"/> : ""}
             </TableRowColumn>
-
-            <TaskModal task={this.props.task} ref={c => this._viewModal = c}/>
           </TableRow>
       )
   }
@@ -79,69 +75,5 @@ class Task extends Component {
 /*
 <TaskEditDialog groups={this.props.groups} task={this.props.task} handleClose={this.update} ref={c => this._dialog = c} />
 */
-
-class TaskModal extends Component {
-    constructor(props){
-        super(props)
-
-        this.actions = [
-            <FlatButton
-                label="Close"
-                onClick={this.handleClose}
-            />
-        ]
-
-        this.state = {
-            open: false
-        }
-    }
-    // Renders file list
-    getFiles = () => {
-        return this.props.task.children.map( file => {
-            return (<File key={file.name} file={file}/>)
-        })
-    }
-    handleClose = () =>{
-        this.setState({open: false})
-    }
-    openDialog = () => {
-        this.setState({open: true})
-    }
-    // Get image preview if available
-    getPreview = () => {
-        let file = this.props.task.children.find( file => {
-            let format = file.name.slice(-3)
-            if(format === "jpg" || format === "png" || format === "gif"){
-                return true
-            }
-            return false
-        })
-        if(file){
-            return (<div><h3>Preview</h3><img alt="" style={{maxHeight:150}}className="taskPreview" src={"http://brlcad.org/gci/data/"+file.path}/></div>)
-        }
-    }
-    render() {
-        return (
-            <Dialog
-                title={this.props.task.name}
-                actions={this.actions}
-                modal={false}
-                open={this.state.open}
-                onRequestClose={this.handleClose}
-                autoScrollBodyContent={true}
-                autoDetectWindowHeight={false}
-                style={{paddingTop: 0}}
-                repositionOnUpdate={false}
-            >
-                {this.getPreview()}
-                <h3>Files</h3>
-                {this.getFiles()}
-                <h3>Tags</h3>
-                <Tags tags={this.props.task.tags} />
-            </Dialog>
-        )
-    }
-
-}
 
 export default Task
