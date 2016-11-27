@@ -25,15 +25,23 @@ class GroupsTable extends Component {
         this.state = {
             groups: undefined,
             loading: true,
+            loggedIn: false,
         }
     }
 
     componentWillMount() {
-        firebase.database().ref('/groups').once('value').then(snap => {
+        firebase.database().ref('/groups').on('value', snap => {
             this.setState({
                 groups: snap.val(),
                 loading: false,
             })
+        })
+        firebase.auth().onAuthStateChanged(user => {
+          if (user) {
+            this.setState({loggedIn:true})
+          } else {
+            this.setState({loggedIn:false})
+          }
         })
     }
 
@@ -61,7 +69,7 @@ class GroupsTable extends Component {
     render () {
         return(
             <div>
-            <RaisedButton primary={true} label="Create" onClick={()=>{this._createDialog.open()}}/>
+            { this.state.loggedIn ? <RaisedButton primary={true} label="Create" onClick={()=>{this._createDialog.open()}}/> : "" }
             <CreateGroupDialog ref={c => this._createDialog = c}/>
             <Table
                 selectable={false}
