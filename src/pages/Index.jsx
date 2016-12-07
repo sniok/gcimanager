@@ -11,6 +11,7 @@ import {
     TextField,
     RaisedButton,
     FlatButton,
+    Checkbox,
 } from 'material-ui'
 
 const styles = {
@@ -34,6 +35,7 @@ class Index extends Component {
         this._table.limit = this._limit.input.value
         this._table.year = this._year.input.value
         this._table.tags = this._tags.state.chips
+        this._table.hide = this._hide.state.switched
     }
 
     more = () => {
@@ -57,7 +59,12 @@ class Index extends Component {
                         <ChipInput
                           floatingLabelText="Tags"
                           ref={c=>this._tags=c}
-                        /><br/>
+                        />
+                        <Checkbox
+                          ref={c=>this._hide=c}
+                          label="Hide grouped tasks"
+                        />
+                      <br/>
                       </div>
 
                     <RaisedButton
@@ -79,7 +86,6 @@ class Index extends Component {
                       label="more"
                     />
                 </Content>
-                <div style={{textAlign:"center",paddingBottom:"30px"}}>Task count is temporarily limited for developing reasons.</div>
             </div>
         )
     }

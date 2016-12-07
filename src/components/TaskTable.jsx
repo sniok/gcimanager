@@ -19,10 +19,12 @@ class TaskTable extends Component {
         this.tasks = []
         this.state = {
             tasks: [],
+            groups: [],
             limit: 10,
-            name: undefined,
-            year: undefined,
-            tags: [],
+            name: undefined, // Filter by name
+            year: undefined, // Filter by year
+            tags: [],  // Filter by tags
+            hide: false,  // Hide grouped tasks
         }
     }
 
@@ -38,11 +40,23 @@ class TaskTable extends Component {
     set tags (tags) {
         this.setState({tags})
     }
+    set hide (hide) {
+        this.setState({hide})
+    }
 
     componentWillMount() {
         firebase.database().ref('/tasks').once('value').then(snap => {
+          const gtasks = snap.val()
+            firebase.database().ref('/groups').once('value').then(snap => {
+                this.setState({
+                    tasks: gtasks,
+                    groups: snap.val()
+                })
+            })
+        })
+        firebase.database().ref('/groups').on('value', snap => {
             this.setState({
-                tasks: snap.val()
+                groups: snap.val()
             })
         })
     }
@@ -50,6 +64,21 @@ class TaskTable extends Component {
     getTasks = () => {
         let t = this.state.tasks
 
+        // if hiding completed
+        if(this.state.hide){
+          t = t.filter( task => {
+              return !task.group
+          })
+        }
+
+        // searching by group (PROPS)
+        if(this.props.group){
+          t = t.filter( task => {
+            return task.group === this.props.group
+          })
+        }
+
+        // searhcing by name
         if(this.state.name){
             t = t.filter( task => {
                 return task.name.toLowerCase().indexOf(this.state.name.toLowerCase()) > -1
@@ -79,7 +108,7 @@ class TaskTable extends Component {
         if(this.state.limit){
             t = t.slice(0,this.state.limit)
         }
-        return t.map(task => <Task key={task.id} task={task}/>)
+        return t.map(task => <Task key={task.id} task={task} groups={this.state.groups}/>)
     }
 
     render() {
@@ -96,8 +125,8 @@ class TaskTable extends Component {
                         <TableHeaderColumn>Name</TableHeaderColumn>
                         <TableHeaderColumn>Tags</TableHeaderColumn>
                         <TableHeaderColumn
-                        style={{width: 100}}
-                        >Actions</TableHeaderColumn>
+                        style={{width: 150}}
+                        >Group</TableHeaderColumn>
                     </TableRow>
                 </TableHeader>
                 <TableBody

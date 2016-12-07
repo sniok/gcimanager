@@ -52,7 +52,6 @@ class GroupsTable extends Component {
                 let group = this.state.groups[id]
                 r.push(<TableRow key={id}>
                   <TableRowColumn>{group.name}</TableRowColumn>
-                  <TableRowColumn>{group.comments ? group.comments.length : "0"}</TableRowColumn>
                   <TableRowColumn>{group.tasks ? group.tasks.length : "0"}</TableRowColumn>
                   <TableRowColumn style={{width: 100 }}>
                       <Link to={`/group/${id}`}>
@@ -80,7 +79,6 @@ class GroupsTable extends Component {
                 >
                     <TableRow>
                         <TableHeaderColumn>Name</TableHeaderColumn>
-                        <TableHeaderColumn>Comments</TableHeaderColumn>
                         <TableHeaderColumn>Tasks</TableHeaderColumn>
                         <TableHeaderColumn
                         style={{width: 100}}

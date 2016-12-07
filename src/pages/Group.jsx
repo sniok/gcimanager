@@ -20,7 +20,7 @@ class Group extends Component {
   }
 
   componentWillMount() {
-    firebase.database().ref(`/groups/${this.props.params.id}`).once('value').then(snap => {
+    firebase.database().ref(`/groups/${this.props.params.id}`).on('value', snap => {
       this.setState({
           group: snap.val(),
           loading: false
@@ -41,7 +41,7 @@ class Group extends Component {
                 />
             </div>
           :
-            <GroupView group={this.state.group} />}
+            <GroupView group={this.state.group} id={this.props.params.id}/>}
         </Content>
       </div>
     )

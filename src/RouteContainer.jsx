@@ -8,6 +8,7 @@ import Task from './pages/Task.jsx'
 import Profile from './pages/Profile.jsx'
 import Groups from './pages/Groups.jsx'
 import Group from './pages/Group.jsx'
+import Invited from './pages/Invited.jsx'
 /*
 import TaskContainer from './TaskContainer.jsx'
 import Layout from './Layout.jsx'
@@ -29,6 +30,7 @@ class RouteContainer extends Component {
           <Route path="/task/:id" component={Task} />
           <Route path="/groups" component={Groups} />
           <Route path="/group/:id" component={Group} />
+          <Route path="/invited/:invite" component={Invited} />
         </Route>
       </Router>
     )
